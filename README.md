@@ -1,2 +1,2 @@
 # portfolio
-A portfolio developed using javascript, html and css
+A portfolio developed using javascript, HTML and CSS
